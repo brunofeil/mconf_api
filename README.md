@@ -14,3 +14,7 @@
 
 # Algumas considerações
 - A api roda direto na porta 8080
+- Sem conhecimentos prévios em 
+  - Golnag
+  - Criação de api's
+  - Containers docker
